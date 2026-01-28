@@ -1,7 +1,7 @@
 # Titanic – Machine Learning from Disaster
 
 <p align="center">
-  <img src="https://github.com/ashishpatel26/Titanic-Machine-Learning-from-Disaster" width="260" alt="Titanic Logo">
+  <img src="[https://github.com/ashishpatel26/Titanic-Machine-Learning-from-Disaster](https://medium.com/@agpafitis/would-you-have-survived-the-titanic-find-out-with-machine-learning-aea239fa8baa)" width="260" alt="Titanic Logo">
 </p>
 
 ## Project Overview
