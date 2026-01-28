@@ -81,3 +81,9 @@ PassengerId,Survived
 892,0
 893,1
 894,0
+
+---
+
+## Author
+**Badar Rasheed Butt**  
+Computer Scientist | Python Specialist | Researcher
