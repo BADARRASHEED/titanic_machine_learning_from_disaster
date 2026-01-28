@@ -1,9 +1,5 @@
 # Titanic – Machine Learning from Disaster
 
-<p align="center">
-  <img src="[https://github.com/ashishpatel26/Titanic-Machine-Learning-from-Disaster](https://medium.com/@agpafitis/would-you-have-survived-the-titanic-find-out-with-machine-learning-aea239fa8baa)" width="260" alt="Titanic Logo">
-</p>
-
 ## Project Overview
 This project is based on the classic Kaggle competition **“Titanic: Machine Learning from Disaster”**, where the objective is to build a machine learning model that predicts whether a passenger survived the Titanic shipwreck using structured passenger data.
 
