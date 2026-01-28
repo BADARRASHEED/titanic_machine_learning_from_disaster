@@ -5,8 +5,6 @@ This project is based on the classic Kaggle competition **“Titanic: Machine Le
 
 The project is intended as a practical introduction to core machine learning workflows, including data preprocessing, exploratory analysis, feature engineering, model training, and prediction submission.
 
----
-
 ## Problem Statement
 Given passenger attributes such as age, gender, ticket class, fare, and family relations, the task is to predict:
 
@@ -15,8 +13,6 @@ Did the passenger survive?
 - 0 = Did not survive  
 
 This is a binary classification problem.
-
----
 
 ## Dataset Description
 The dataset is provided by Kaggle and consists of two main files:
@@ -44,16 +40,12 @@ The dataset is provided by Kaggle and consists of two main files:
 | Cabin | Cabin identifier |
 | Embarked | Port of embarkation |
 
----
-
 ## Tools and Technologies
 - Python
 - Pandas and NumPy for data manipulation
 - Matplotlib and Seaborn for visualization
 - Scikit-learn for machine learning models
 - Kaggle Notebook environment
-
----
 
 ## Project Workflow
 1. Data loading and inspection  
@@ -64,14 +56,10 @@ The dataset is provided by Kaggle and consists of two main files:
 6. Model evaluation using accuracy score  
 7. Prediction generation and submission file creation  
 
----
-
 ## Model Performance
 - Evaluation metric: Accuracy
 - Baseline models achieve competitive accuracy for a beginner-level competition
 - Performance can be improved through advanced feature engineering and model tuning
-
----
 
 ## Submission Format
 Predictions are submitted in CSV format with the following structure:
@@ -83,7 +71,6 @@ PassengerId,Survived
 894,0
 
 ```
----
 
 ## Author
 **Badar Rasheed Butt**  
